@@ -73,7 +73,7 @@ python space_capsule_panel.py
 
 ## 7. 程式結構
 
-原始碼與 Python 檔案待上傳。
+
 
 | 檔案 | 用途 |
 |---|---|
@@ -87,7 +87,7 @@ python space_capsule_panel.py
 
 ## 8. 實作照片
 
-以下圖片待上傳至 `docs/`，檔名須與連結一致。
+
 
 接線總覽：開發板、麵包板與三顆外接 LED。
 
