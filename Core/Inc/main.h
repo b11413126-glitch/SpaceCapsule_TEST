@@ -69,8 +69,6 @@ void Error_Handler(void);
 #define RCC_OSC_OUT_GPIO_Port GPIOF
 #define BACKUP_LED_Pin GPIO_PIN_7
 #define BACKUP_LED_GPIO_Port GPIOA
-#define ALARM_LED_Pin GPIO_PIN_0
-#define ALARM_LED_GPIO_Port GPIOB
 #define T_SWDIO_Pin GPIO_PIN_13
 #define T_SWDIO_GPIO_Port GPIOA
 #define T_SWCLK_Pin GPIO_PIN_14
