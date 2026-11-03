@@ -103,7 +103,7 @@ python space_capsule_panel.py
 
 ## 9. AI 使用說明
 
-使用 ChatGPT／Codex 協助功能規畫、STM32 狀態機與 UART／計時／PWM 程式、Python 面板、除錯及文件整理。
+使用 ChatGPT 協助功能規畫、STM32 狀態機與 UART／計時／PWM 程式、Python 面板、除錯及文件整理。
 
 本人負責環境設定、實體接線、燒錄與操作，並透過 `STATUS`、`EVENT` 回報及實機燈號查核結果。
 
